@@ -1,0 +1,2 @@
+[lfs]
+	url = http://10.1.20.38:8081/artifactory/api/lfs/lfs-local
